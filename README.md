@@ -1,7 +1,7 @@
-Might fix a few problems
+Might fix a few problems ↓
 
-pip uninstall mediapipe
-pip install mediapipe==0.10.32
+- pip uninstall mediapipe
+- pip install mediapipe==0.10.32
 
 ## __HOW TO USE__
 
